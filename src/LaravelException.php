@@ -27,7 +27,7 @@ class LaravelException
      */
     public function sendNotificationMessage(Throwable $e): void
     {
-        if (!in_array($e->getCode(), config('laravel-exception.catchable'))) {
+        if (! in_array($e->getCode(), config('laravel-exception.catchable'))) {
             return;
         }
 
@@ -47,5 +47,4 @@ class LaravelException
             TeleBot::sendMessage($params);
         }
     }
-
 }
