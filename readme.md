@@ -37,8 +37,8 @@ If you discover any security related issues, please email author@email.com inste
 
 ## Credits
 
-- [Yudi Hertanto](https://github.com/tanyudii)
-- [All Contributors](https://github.com/tanyudii/laravel-exception/graphs/contributors)
+- [Yudi Hertanto][link-author]
+- [All Contributors][link-contributors]
 
 ## License
 
@@ -52,6 +52,6 @@ MIT. Please see the [license file](license.md) for more information.
 [link-packagist]: https://packagist.org/packages/tanyudii/laravel-exception
 [link-downloads]: https://packagist.org/packages/tanyudii/laravel-exception
 [link-travis]: https://travis-ci.org/tanyudii/laravel-exception
-[link-styleci]: https://styleci.io/repos/12345678
+[link-styleci]: https://styleci.io/repos/403667911
 [link-author]: https://github.com/tanyudii
-[link-contributors]: ../../contributors
+[link-contributors]: https://github.com/tanyudii/laravel-exception/graphs/contributors

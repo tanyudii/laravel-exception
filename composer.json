@@ -1,6 +1,6 @@
 {
     "name": "tanyudii/laravel-exception",
-    "description": ":package_description",
+    "description": "The Package Exception Notification through Telegram Bot API.",
     "license": "MIT",
     "authors": [
         {
